@@ -1,0 +1,5 @@
+{
+  "name": "Web3 Survey Visualizer",
+  "description": "A dashboard to visualize community survey data about Web3 information channels using Gemini for text analysis.",
+  "requestFramePermissions": []
+}
